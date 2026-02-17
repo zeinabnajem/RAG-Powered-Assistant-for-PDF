@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-classic
+sentence-transformers
+faiss-cpu
+langchain-core
+pypdf
+ransformers==4.46.3
+huggingface_hub==0.36.2
+langchain-huggingface
+numpy
